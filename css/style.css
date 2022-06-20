@@ -23,12 +23,6 @@ body{
     transform: translate(-50%, -50%);
 }
 
-.password-row p{
-    font-size: 1.125rem;
-}
-
 #password{
-    padding-top: 1rem;
     font-size: 2.5rem;
-    text-transform: uppercase;
 }
